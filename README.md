@@ -23,6 +23,11 @@ This project addresses the growing threat of deepfakes by using a **Dual-Defense
 * **Web App:** Streamlit
 * **Forensics:** PIL (Pillow)
 
+## 📥 Model Download
+Due to file size limits, please download the trained models(Handmade and Pro model) from the link below and place them in the project root directory:
+(https://drive.google.com/drive/folders/1wcJAimeEilHVd1YQyOeOHeH69HYLqIz8?usp=sharing)
+
+
 ## 📋 Installation & Usage
 1. Clone the repository:
    ```bash
