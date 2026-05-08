@@ -27,3 +27,16 @@ This project addresses the growing threat of deepfakes by using a **Dual-Defense
 1. Clone the repository:
    ```bash
    git clone [https://github.com/YOUR_USERNAME/Deepfake-Detection-System.git](https://github.com/YOUR_USERNAME/Deepfake-Detection-System.git)
+   
+2. Install Dependencies
+```bash
+pip install -r requirements.txt
+
+3. Run the App
+```Bash
+streamlit run app.py
+
+👩‍💻 Developed By
+Maryam Khalid
+5th Semester Computer Science Student
+Bahria University, Islamabad
