@@ -38,8 +38,8 @@ def run_ela(image, quality=90):
 def load_ensemble():
     # 1. YOUR GOOGLE DRIVE FILE IDs
     # Get these from your Drive share links (the long string of letters/numbers)
-    m1_id = '1qEdqfispNzo-gZ9R5QD9SJeMKPES6syy' 
-    m2_id = '1KSCKXbPB4tEmgpE3agZm9z_OPF6VIwJo'
+    m1_id = st.secrets["M1_ID"]
+    m2_id = st.secrets["M2_ID"]
     
     # 2. LOCAL FILENAMES
     m1_path = 'deepfake_detector_model.h5'
