@@ -31,11 +31,11 @@ This project addresses the growing threat of deepfakes by using a **Dual-Defense
 2. Install Dependencies
 ```bash
 pip install -r requirements.txt
-
+```
 3. Run the App
-```Bash
+```bash
 streamlit run app.py
-
+```
 👩‍💻 Developed By
 Maryam Khalid
 5th Semester Computer Science Student
